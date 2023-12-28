@@ -1,11 +1,5 @@
 .introduction {
-    display: grid;
-    grid-template-columns: 1fr 2fr;
-    gap: 100px;
     align-items: center;
-    margin: 0px auto;
-    padding: 40px 20px;
-    max-width: 1200px;
 }
 
 .introduction .introduction-description h1 {
