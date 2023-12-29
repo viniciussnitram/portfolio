@@ -17,7 +17,7 @@
     content: '';
     width: 130px;
     height: 100px;
-    background: url('/assets/images/svg/detalhe.svg') no-repeat center;
+    background: url('../assets/images/svg/detalhe.svg') no-repeat center;
     position: absolute;
     bottom: -50px;
     left: 20px;
@@ -127,7 +127,7 @@
 }
 
 .formation .formation-container div .formation-extra .courses h3::before {
-    background: url('/assets/images/svg/cursos.svg') no-repeat center center;
+    background: url('../assets/images/svg/cursos.svg') no-repeat center center;
 }
 
 .formation .formation-container div .formation-extra .courses ul li {
@@ -136,7 +136,7 @@
 }
 
 .formation .formation-container div .formation-extra .languages h3::before {
-    background: url('/assets/images/svg/idiomas.svg') no-repeat center center;
+    background: url('../assets/images/svg/idiomas.svg') no-repeat center center;
 }
 
 @media (max-width: 800px) {
