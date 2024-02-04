@@ -18,12 +18,12 @@ showing a little bit of experiences, formations and contacts.
 - clean-css-cli (npm).
 
 ## Screenshots
-![Screenshot of the main screen](./assets/images/screenshots/image.png)
+![Screenshot of the main screen](./assets/screenshots/image.png)
 *Subtitle: Screenshot of the main screen. A big main heading and nav menu on the top of image, side by side. On the middle of image a dev's picture and side that a big heading and a little description.*
 
 <br>
 
-![Screenshot of the main screen responsive (width: 800px)](./assets/images/screenshots/image-1.png)
+![Screenshot of the main screen responsive (width: 800px)](./assets/screenshots/image-1.png)
 *Subtitle: Screenshot of the main screen. A big main heading and nav menu on the top of image, one below the other. On the middle of image a dev's picture and side that a big heading and a little description.*
 
 ## Links
