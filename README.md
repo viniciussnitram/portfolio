@@ -18,7 +18,7 @@ mostrando um pouco sobre experiências, formações e contatos.
 - clean-css-cli (npm).
 
 ## Capturas de Tela
-(![Screenshot da tela principal](./assets/screenshots/image.png)
+![Screenshot da tela principal](./assets/screenshots/image.png)
 *Legenda: Screenshot da tela principal. Cabeçalho principal e menu de navegação no topo da imagem, um ao lado do outro. No meio da imagem, foto do desenvolvedor e a direita grande título com pequena descrição.*
 
 <br>
