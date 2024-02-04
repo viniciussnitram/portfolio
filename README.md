@@ -27,5 +27,5 @@ mostrando um pouco sobre experiências, formações e contatos.
 *Legenda: Screenshot da tela principal. Cabeçalho principal e menu de navegação no topo da imagem, um abaixo do outro. No meio da imagem, foto do desenvolvedor e a direita grande título com pequena descrição.*
 
 ## Links
-[Solução](https://viniciussnitram.github.io/portfolio/)
-[LinkedIn](https://linkedin.com/in/viniciussmartins)
+- [Solução](https://viniciussnitram.github.io/portfolio/)
+- [LinkedIn](https://linkedin.com/in/viniciussmartins)
